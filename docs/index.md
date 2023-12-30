@@ -1,2 +1,3 @@
-- [anyenv をインストールする](./install-anyenv.md)
-- [Homebrew をインストールする](./install-homebrew.md)
+- [anyenv をインストールする](install-anyenv.md)
+- [Homebrew をインストールする](install-homebrew.md)
+- [Node.js（とついでにyarn）をインストールする](install-nodejs.md)
